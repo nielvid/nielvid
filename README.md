@@ -17,6 +17,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A beginners&#39; Journey into Web Development.](https://dev.to/chinonyeremson/a-beginners-journey-into-web-development-2d72)
+- [ESLint Prettier &amp; Husky Configuration for Project](https://dev.to/chinonyeremson/eslint-prettier-husky-configuration-for-project-5f5a)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
