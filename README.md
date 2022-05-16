@@ -17,8 +17,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [A beginners&#39; Journey into Web Development.](https://dev.to/chinonyeremson/a-beginners-journey-into-web-development-2d72)
-- [ESLint Prettier &amp; Husky Configuration for Project](https://dev.to/chinonyeremson/eslint-prettier-husky-configuration-for-project-5f5a)
+- [A beginners&#39; Journey into Web Development.](https://dev.to/devops_godson/a-beginners-journey-into-web-development-2d72)
+- [ESLint Prettier &amp; Husky Configuration for Project](https://dev.to/devops_godson/eslint-prettier-husky-configuration-for-project-5f5a)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -27,7 +27,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/devopsgodson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devopsgodson/" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/chinonyerem.g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/chinonyerem.g/" height="30" width="40" /></a>
 <a href="https://instagram.com/devops_godson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devops_godson" height="30" width="40" /></a>
-<a href="https://medium.com/@godsonesq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@godsonesq" height="30" width="40" /></a>
+<a href="https://medium.com/@devops_godson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devops_godson" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
