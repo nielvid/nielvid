@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Godson Chinonyerem</h1>
-<h3 align="center">A result-driven Software Engineer</h3>
-<h4 align="center">I love building softwares that powers the whole application stack! Hence my love for Backend Engineering and devOps processes. </h4>
+<h3 align="center">A result-driven Software Engineer - Backend/devOps</h3>
+<h4 align="center">I love building softwares that powers the whole application stack!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nielvid&label=Profile%20views&color=0e75b6&style=flat" alt="nielvid" /> </p>
 
