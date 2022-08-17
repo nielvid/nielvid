@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Godson Chinonyerem</h1>
-<h3 align="center">A passionate backend developer from Lagos, Nigeria</h3>
+<h3 align="center">A result-driven Software Engineer</h3>
+<h4 align="center">I love building softwares that powers the whole application stack! Hence my love for Backend Engineering and devOps processes. </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nielvid&label=Profile%20views&color=0e75b6&style=flat" alt="nielvid" /> </p>
 
@@ -7,11 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/@devops_godson" target="blank"><img src="https://img.shields.io/twitter/follow/@devops_godson?logo=twitter&style=for-the-badge" alt="@devops_godson" /></a> </p>
 
-- 🔭 I’m currently working on **School Finder**
+- 🔭 I’m currently working on **an ecommerce REST API in golang**
 
-- 🌱 I’m currently learning **Kubernetes**
-
-- 💬 Ask me about **Nestjs,Nodejs,Reactjs,Mysql**
+- 💬 Ask me about **Nestjs,Nodejs,golang,Reactjs,Mysql,Docker,Kubernetes,Microservice and cloud concepts**
 
 - 📫 How to reach me **godsonesq@gmail.com**
 
