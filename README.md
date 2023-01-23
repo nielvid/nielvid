@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nielvid" alt="nielvid" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/polymorphyson" target="blank"><img src="https://img.shields.io/twitter/follow/polymorphyson?logo=twitter&style=for-the-badge" alt="polymorphyson" /></a> </p>
+<p align="left"> <a href="https://twitter.com/instanceofGod" target="blank"><img src="https://img.shields.io/twitter/follow/instanceofGod?logo=twitter&style=for-the-badge" alt="instanceofGod" /></a> </p>
 
 - 🔭 I’m currently working on **School Finder Web App**
 
