@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Godson</h1>
-<h3 align="center">I build softwares (backend services) with cutting edge technologies.</h3>
+<h3 align="center">I build performant and scalable softwares with cutting edge technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nielvid&label=Profile%20views&color=0e75b6&style=flat" alt="nielvid" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **School Finder Web App**
 
-- 🌱 I’m currently learning **Prometheus and Grafana**
+- 🌱 I’m currently learning **HTML**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
