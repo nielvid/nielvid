@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **godsonesq@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/devopsgodson/](https://www.linkedin.com/in/devopsgodson/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/instanceofGod/](https://www.linkedin.com/in/instanceofGod/)
 
 - ⚡ Fun fact **I love reading and learning**
 
