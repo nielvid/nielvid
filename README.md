@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 📝 I regularly write articles on [https://dev.to/devops_godson](https://dev.to/devops_godson)
+- 📝 I regularly write articles on [https://dev.to/instanceofgod](https://dev.to/instanceofgod)
 
 - 💬 Ask me about **Nodejs, Golang or Python**
 
