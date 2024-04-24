@@ -25,6 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Securely Connecting to PostgreSQL on a Virtual Machine from Anywhere](https://dev.to/instanceofgod/securely-connecting-to-postgresql-on-a-virtual-machine-from-anywhere-4ank)
+- [Enable Password Authentication in AWS EC2 Instance](https://dev.to/instanceofgod/enable-password-authentication-in-aws-ec2-instance-376b)
+- [A beginners&#39; Journey into Web Development.](https://dev.to/instanceofgod/a-beginners-journey-into-web-development-2d72)
+- [ESLint Prettier &amp; Husky Configuration for Project](https://dev.to/instanceofgod/eslint-prettier-husky-configuration-for-project-5f5a)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
