@@ -25,6 +25,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Array methods](https://dev.to/instanceofgod/javascript-array-methods-26n)
 - [Securely Connecting to PostgreSQL on a Virtual Machine from Anywhere](https://dev.to/instanceofgod/securely-connecting-to-postgresql-on-a-virtual-machine-from-anywhere-4ank)
 - [Enable Password Authentication in AWS EC2 Instance](https://dev.to/instanceofgod/enable-password-authentication-in-aws-ec2-instance-376b)
 - [A beginners&#39; Journey into Web Development.](https://dev.to/instanceofgod/a-beginners-journey-into-web-development-2d72)
