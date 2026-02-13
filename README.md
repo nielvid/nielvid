@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Secure PIN Processing: A Deep Dive into ISO 9564–1 PIN Blocks, Triple DES, and RSA](https://dev.to/instanceofgod/secure-pin-processing-a-deep-dive-into-iso-9564-1-pin-blocks-triple-des-and-rsa-2dip)
 - [Cloud Resume API Challenge with GCP](https://dev.to/instanceofgod/cloud-resume-api-challenge-with-gcp-c1j)
 - [4 Ways to backup mySql database to a csv file](https://dev.to/instanceofgod/4-ways-to-backup-mysql-database-to-a-csv-file-3e9j)
 - [JavaScript Array methods](https://dev.to/instanceofgod/javascript-array-methods-26n)
 - [Securely Connecting to PostgreSQL on a Virtual Machine from Anywhere](https://dev.to/instanceofgod/securely-connecting-to-postgresql-on-a-virtual-machine-from-anywhere-4ank)
-- [Enable Password Authentication in AWS EC2 Instance](https://dev.to/instanceofgod/enable-password-authentication-in-aws-ec2-instance-376b)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
