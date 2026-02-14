@@ -25,7 +25,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Secure PIN Processing: A Deep Dive into ISO 9564–1 PIN Blocks, Triple DES, and RSA](https://dev.to/instanceofgod/secure-pin-processing-a-deep-dive-into-iso-9564-1-pin-blocks-triple-des-and-rsa-2dip)
+- [Secure PIN Processing: A Deep Dive into ISO 9564-1 PIN Blocks, RSA, and AES Encryption](https://dev.to/instanceofgod/secure-pin-processing-a-deep-dive-into-iso-9564-1-pin-blocks-triple-des-and-rsa-2dip)
 - [Cloud Resume API Challenge with GCP](https://dev.to/instanceofgod/cloud-resume-api-challenge-with-gcp-c1j)
 - [4 Ways to backup mySql database to a csv file](https://dev.to/instanceofgod/4-ways-to-backup-mysql-database-to-a-csv-file-3e9j)
 - [JavaScript Array methods](https://dev.to/instanceofgod/javascript-array-methods-26n)
