@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a Real-Time DDoS Detection Engine from Scratch](https://dev.to/instanceofgod/how-i-built-a-real-time-ddos-detection-engine-from-scratch-3183)
 - [PIN Encryption &amp; Decryption with RSA in Node.js](https://dev.to/instanceofgod/pin-encryption-decryption-with-rsa-in-nodejs-22d1)
 - [Building a Production-Ready RAG Application with FastAPI, LangChain, and Google Gemini: A Deep Dive](https://dev.to/instanceofgod/building-a-production-ready-rag-application-with-fastapi-langchain-and-google-gemini-a-deep-dive-37jl)
 - [Secure PIN Processing: A Deep Dive into ISO 9564-1 PIN Blocks, RSA, and AES Encryption](https://dev.to/instanceofgod/secure-pin-processing-a-deep-dive-into-iso-9564-1-pin-blocks-triple-des-and-rsa-2dip)
 - [Cloud Resume API Challenge with GCP](https://dev.to/instanceofgod/cloud-resume-api-challenge-with-gcp-c1j)
-- [4 Ways to backup mySql database to a csv file](https://dev.to/instanceofgod/4-ways-to-backup-mysql-database-to-a-csv-file-3e9j)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
