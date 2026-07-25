@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [TLS and mTLS for Infra Services: A Production Deep Dive for Solo Devs and Small Startups](https://dev.to/instanceofgod/tls-and-mtls-for-infra-services-a-production-deep-dive-for-solo-devs-and-small-startups-2j0g)
 - [DevOps Sandbox Platform: the Engineering Design Document:](https://dev.to/instanceofgod/engineering-design-document-devops-sandbox-platform-4lg3)
 - [SwiftDeploy: Building a Self-Writing Infrastructure Tool with OPA Policy Gates and Prometheus Observability](https://dev.to/instanceofgod/swiftdeploy-building-a-self-writing-infrastructure-tool-with-opa-policy-gates-and-prometheus-2g84)
 - [Real-Time DDoS Detection Engine](https://dev.to/instanceofgod/how-i-built-a-real-time-ddos-detection-engine-from-scratch-3183)
 - [PIN Encryption &amp; Decryption with RSA in Node.js](https://dev.to/instanceofgod/pin-encryption-decryption-with-rsa-in-nodejs-22d1)
-- [Building a Production-Ready RAG Application with FastAPI, LangChain, and Google Gemini: A Deep Dive](https://dev.to/instanceofgod/building-a-production-ready-rag-application-with-fastapi-langchain-and-google-gemini-a-deep-dive-37jl)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
